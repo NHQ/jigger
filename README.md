@@ -1,4 +1,4 @@
-# chronotrigger
+# jigger
 
 a generator for audio signals that combines your synth function with an envelope and timing.  For use with jsynth, nvelope, and jsynth-sync.  Look em up on NPM.
 
