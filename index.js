@@ -4,7 +4,7 @@ var nvelope = require('nvelope')
 module.exports = chrono
 
 function chrono(_time){
-  if(!(this instanceof chrono)) return new chrono(_t)
+  if(!(this instanceof chrono)) return new chrono(_time)
   var self = this
   this.ret = {}
   this.gens = []
